@@ -1,3 +1,34 @@
+/*Ammo
+"vn_mortar_m29_mag_he_x8" 81mm
+"vn_mortar_m29_mag_wp_x8"
+"vn_mortar_m29_mag_lume_x8"
+
+"vn_mortar_m2_mag_he_x8"  60mm
+"vn_mortar_m2_mag_wp_x8"
+"vn_mortar_m2_mag_lume_x8"
+
+"rhs_12Rnd_m821_HE" 81mm HE
+
+"rhs_mag_m26a1_6" Cluster missile
+
+"magazine_ShipCannon_120mm_HE_shells_x32"
+"magazine_ShipCannon_120mm_HE_guided_shells_x2"
+"magazine_ShipCannon_120mm_HE_LG_shells_x2"
+"magazine_ShipCannon_120mm_HE_cluster_shells_x2"
+"magazine_ShipCannon_120mm_mine_shells_x6"
+"magazine_ShipCannon_120mm_smoke_shells_x6"
+"magazine_ShipCannon_120mm_AT_mine_shells_x6"
+
+
+"32Rnd_155mm_Mo_shells"
+"4Rnd_155mm_Mo_guided"
+"6Rnd_155mm_Mo_mine"
+"2Rnd_155mm_Mo_Cluster"
+"6Rnd_155mm_Mo_smoke"
+"2Rnd_155mm_Mo_LG"
+"6Rnd_155mm_Mo_AT_mine"
+*/
+
 #include "script_component.hpp"
 
 ["tin_var_artyObservers", [	//[OBJECT,"STRING",side]
